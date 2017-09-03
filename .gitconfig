@@ -1,0 +1,11 @@
+[user]
+	name = AJ Rabe
+	email = aj.rabe@gmail.com
+[alias]
+	st = status
+[push]
+	default = simple
+[merge]
+	tool = kdiff3
+[core]
+	excludesfile = ~/.gitignore
